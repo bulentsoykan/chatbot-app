@@ -1,6 +1,5 @@
-# **Gemini Pro ChatBot**
+# **ChatBot**
 
-![chatbot-gif ‐ Clipchamp ile yapıldı](https://github.com/ahmetdzdrr/gemini-pro-chatbot/assets/117534684/41018d7b-5253-4273-bddd-83277afe95fe)
 
 ## **Table of Contents**
 
@@ -11,7 +10,7 @@
 - [How to Create Google API?](#how-to-create-google-api)
 - [Installation](#installation)
 - [Usage Code](#usage)
-- [Contribution](#contribution)
+
 
 ## **Introduction**
 
@@ -90,6 +89,3 @@ Enter the following command:
 python app.py
 ```
 
-## **Contribution**
-
-Your contributions are welcome! If you wish to contribute, feel free to open a pull request. Please make sure to explain your changes.
